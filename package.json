@@ -1,0 +1,18 @@
+{
+  "name": "Starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SdnSantos/NLW1.git",
+  "author": "SdnSantos <sidney_ssantos@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
